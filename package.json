@@ -1,0 +1,12 @@
+{
+  "name": "taylors-event-management",
+  "version": "1.0.0",
+  "description": "Taylor's University Event Management System",
+  "main": "app.js",
+  "scripts": {
+    "build": "echo 'Build complete - plain HTML/CSS/JS ready for browser'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
